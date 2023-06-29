@@ -2,7 +2,7 @@
 > Rookie Full Stack Developer 
 
 
-#### Typing code 
+#### Typing code 👇
 ```javascript
 const Pedro = {
   code:  [Java, JavaScript, TypeScript, HTML, CSS],
